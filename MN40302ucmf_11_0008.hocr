@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "MN40302ucmf_11_0008.png"; bbox 0 0 2429 3344; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 184 343 1206 695">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 184 343 1206 695">
+     <span class='ocr_line' id='line_1_1' title="bbox 184 343 1206 695; baseline -0.015 -52"><span class='ocrx_word' id='word_1_1' title='bbox 184 343 1206 695; x_wconf 76' lang='lat' dir='ltr'>Psotenhauer‚</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 191 1287 1212 1673">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 191 1287 1212 1673">
+     <span class='ocr_line' id='line_1_2' title="bbox 191 1287 1212 1673; baseline -0.022 -81"><span class='ocrx_word' id='word_1_2' title='bbox 191 1313 420 1592; x_wconf 85' lang='lat' dir='ltr'>De</span> <span class='ocrx_word' id='word_1_3' title='bbox 477 1287 967 1673; x_wconf 80' lang='lat' dir='ltr'>pueris</span> <span class='ocrx_word' id='word_1_4' title='bbox 1031 1378 1212 1659; x_wconf 80' lang='lat' dir='ltr'>gr</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 199 1763 1206 2068">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 199 1763 1206 2068">
+     <span class='ocr_line' id='line_1_3' title="bbox 199 1763 1206 2068; baseline -0.025 0"><span class='ocrx_word' id='word_1_5' title='bbox 199 1771 384 2068; x_wconf 82' lang='lat' dir='ltr'>ad</span> <span class='ocrx_word' id='word_1_6' title='bbox 487 1763 872 2062; x_wconf 79' lang='lat' dir='ltr'><strong>Esai.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 939 1765 1206 2048; x_wconf 88' lang='lat' dir='ltr'>LX</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1238 3344">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1238 3344">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1238 3344; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1238 3344; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 198 2715 1215 3081">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 198 2715 1215 3081">
+     <span class='ocr_line' id='line_1_5' title="bbox 198 2715 1215 3081; baseline -0.023 -65"><span class='ocrx_word' id='word_1_9' title='bbox 198 2715 1215 3081; x_wconf 79' lang='lat' dir='ltr'>Vitemberga</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
